@@ -14,5 +14,5 @@ Button.prototype = {
     }
 }
 
-var btn1 = new Button('Dupa!');
+var btn1 = new Button('Hey!');
 btn1.create();
